@@ -7,7 +7,8 @@ Immobilienobjekte auf ihrer Homepage einzubinden.
 ImmocasterLight hilft Ihnen sich über OAuth an der IS24 API anzumelden und übernimmt
 alle notwendige Kommunikation. Die Klasse ist bewusst minimalistisch gehalten und somit
 leicht erweiter und auf Ihre Bewürfnisse anpassbar. Zur Speicherung ihrer Zugangsdaten
-wird keine Datenbank benötigt.
+wird keine Datenbank benötigt. Bitte beachten Sie das keinerlei Fehlerbehandlung enthalten
+ist.
 
 Howto Use
 ========
