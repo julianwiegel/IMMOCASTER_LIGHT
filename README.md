@@ -4,7 +4,7 @@ ImmocasterLight v1.0.0
 ImmocasterLight ist eine ALL-IN-ONE PHP Klasse, um beispielsweise
 Immobilienobjekte auf ihrer Homepage einzubinden. 
 
-ImmocasterLight hilft Ihnen sich über OAuth an der IS24 API anzumelden und übernimmt
+ImmocasterLight hilft Ihnen sich über OAuth an der Immobilienscout24 (IS24) API anzumelden und übernimmt
 alle notwendige Kommunikation. Die Klasse ist bewusst minimalistisch gehalten und somit
 leicht erweiter und auf Ihre Bewürfnisse anpassbar. Zur Speicherung ihrer Zugangsdaten
 wird keine Datenbank benötigt. Bitte beachten Sie das keinerlei Fehlerbehandlung enthalten
